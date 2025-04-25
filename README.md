@@ -1,4 +1,9 @@
-## Repository archived
+## Fork with fixed CVE-2024-48510
+
+In this fork I fixed the directory traversal vulnerability in DotNetZip less version 1.16.0.
+
+
+## Original Repository archived
 
 This repository was created before `System.IO.Compression` and the code is unmaintained
 at this point. Please transition to `System.IO.Compression`.
